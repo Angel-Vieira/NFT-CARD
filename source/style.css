@@ -75,7 +75,7 @@ body{
 }
 
 
-/* QUANDO EU PASSAR O MOUSE POR CIMA, VOU QUERER ACESSAR O AFTER E O BEFORE */
+/* QUANDO EU PASSAR O MOUSE POR CIMA, VOU QUERER ACESSAR O AFTER E O BEFORE .*/
 .nft-card .image-link:hover::before {
     display: flex;
     opacity: 0.2;
